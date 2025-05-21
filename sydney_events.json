@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sydney Music Festival",
+    "date": "June 15, 2025",
+    "venue": "Sydney Opera House",
+    "description": "Annual music festival featuring local artists",
+    "ticket_link": "https://www.eventbrite.com.au/sample-event-1"
+  },
+  {
+    "name": "Food & Wine Expo",
+    "date": "May 30, 2025",
+    "venue": "Darling Harbour",
+    "description": "Taste the best food and wine Sydney has to offer",
+    "ticket_link": "https://www.eventbrite.com.au/sample-event-2"
+  },
+  {
+    "name": "International Comedy Festival",
+    "date": "June 5-12, 2025",
+    "venue": "State Theatre",
+    "description": "Featuring top comedians from around the world",
+    "ticket_link": "https://www.ticketmaster.com.au/sample-event-1"
+  },
+  {
+    "name": "Sydney Symphony Orchestra",
+    "date": "May 25, 2025",
+    "venue": "Sydney Opera House",
+    "description": "Classical music performance",
+    "ticket_link": "https://www.ticketmaster.com.au/sample-event-2"
+  }
+]

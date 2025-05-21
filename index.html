@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sydney Events</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sydney Events</h1>
+        <p>Discover the best events happening in Sydney</p>
+    </header>
+    
+    <div id="events-container" class="events-grid">
+        <p class="loading-message">Loading events...</p>
+    </div>
+    
+    <!-- Email Modal -->
+    <div id="email-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Get Tickets</h2>
+            <p>Enter your email to continue to the ticket page:</p>
+            <input type="email" id="email-input" placeholder="Your email">
+            <button id="submit-email">Continue to Tickets</button>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Sydney Events Scraper</p>
+    </footer>
+    
+    <script src="app.js"></script>
+</body>
+</html>
